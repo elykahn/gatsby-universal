@@ -1,16 +1,16 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Gatsby Universal`,
-  siteTitleShort: `GatsbyU`,
-  siteDescription: `An opinionated starter for Gatsby.`,
-  siteUrl: `https://gu.fabianschultz.com`,
-  themeColor: `#000`,
-  backgroundColor: `#fff`,
+  siteTitle: `ely.io`,
+  siteTitleShort: `ely.io`,
+  siteDescription: `Warming Up`,
+  siteUrl: `https://ely.io`,
+  themeColor: `#050A08`,
+  backgroundColor: `#FBFCFA`,
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
-    twitter: `gatsbyjs`,
-    fbAppId: `966242223397117`,
+    twitter: `creativ_ely`,
+    email: `ely.kahn+feedback@gmail.com`,
   },
 };
